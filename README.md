@@ -1,4 +1,4 @@
-# Sleep-Stage-Classification
+# Sleep-Stage-Classification 
 This project uses deep learning techniques to classify sleep stages from the SHHS PSG dataset
 #Objective
 To develop a CNN-LSTM model that automatically detects different sleep stages using physiological signals.
